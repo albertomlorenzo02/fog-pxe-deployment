@@ -45,4 +45,4 @@ El entorno está compuesto por tres máquinas virtuales conectadas mediante una 
 | Cliente Origen | Equipo utilizado para capturar la imagen |
 | Cliente Destino | Equipo utilizado para desplegar la imagen |
 
-![Arquitectura del laboratorio](diagrams/arquitectura-fog_.png)
+![Arquitectura del laboratorio](diagrams/arquitectura-fog.png)
