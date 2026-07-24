@@ -1,9 +1,11 @@
 # 🚀 FOG PXE Deployment Lab
 
-A virtual lab for automated operating system deployment using **FOG Project**, **PXE boot** and **Ubuntu Server**.
+> Implementación de un servidor FOG para el despliegue automatizado de sistemas operativos mediante PXE.
 
 ---
 
-## 📋 Overview
+## 📋 Descripción
 
-This repository documents the design and implementation of a complete FOG deployment environment capable of capturing and deploying operating system images over the network.
+Este repositorio documenta el diseño, instalación y configuración de un laboratorio virtual basado en **FOG Project** sobre **Ubuntu Server 22.04 LTS**, orientado al despliegue automatizado de sistemas operativos mediante arranque por red (PXE).
+
+El objetivo del laboratorio es simular un entorno empresarial o educativo donde sea posible instalar múltiples equipos desde un servidor central, reduciendo el tiempo de despliegue y eliminando la necesidad de utilizar dispositivos USB o medios físicos.
